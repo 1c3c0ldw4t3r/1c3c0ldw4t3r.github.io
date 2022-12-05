@@ -58,11 +58,23 @@ ul li a {
 /* About Card */
 
 .theback h2{
-    margin-top: 30px;
+    margin-top: 40px;
     padding: 30px;
     text-align: justify;
   }
 
-  /* Store Cards */
+  .theback h1{
+    margin-top: 10px;
+    margin-bottom: 10px;
+    text-align: justify;
+    padding: 5px
+  }
 
+  .theback iframe{
+    margin-top: 10px;
+    margin-bottom: 40px;
+  }
+
+
+ 
  
